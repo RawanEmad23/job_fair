@@ -1,0 +1,17 @@
+table 
+{
+    background-color: rgba(255, 255, 102);
+}
+tbody
+{
+    background-color: rgb(180, 218, 234);
+}
+th
+{
+    padding: 15px 50px;
+}
+.navbar img
+{
+    width: 60px;
+    border-radius: 50%;
+} 
